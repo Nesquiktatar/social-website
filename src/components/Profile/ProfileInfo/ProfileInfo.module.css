@@ -1,0 +1,18 @@
+.descriptionBlock {
+    padding: 10px;
+}
+
+.mainPhoto {
+    max-width: 200px;
+}
+
+.contact {
+    padding-left: 10px;
+}
+
+.button {
+    border-radius: 20px;
+    border-color: #ffa200;
+    background-color: #9d70ca;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
